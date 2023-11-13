@@ -1,2 +1,2 @@
 # pixaclima
-Historical shell made in homage of the iPod (and the iPod UI)
+HTML shell made to run on the click-wheel/vintage iPods for fun
